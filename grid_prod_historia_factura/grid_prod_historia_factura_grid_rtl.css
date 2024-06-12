@@ -1,0 +1,13 @@
+.css_L1C1_label, .css_L1C1_label:hover {text-align:center;vertical-align:middle;background-color:#CCFF99;}
+.css_fecha_label, .css_fecha_label:hover {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_fecha_grid_line, .css_fecha_grid_line:hover {vertical-align: top;text-align: center;}
+.css_usuario_label, .css_usuario_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_usuario_grid_line, .css_usuario_grid_line:hover {vertical-align: top;text-align: right;}
+.css_estado_label, .css_estado_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_estado_grid_line, .css_estado_grid_line:hover {vertical-align: top;text-align: right;}
+.css_observaciones_label, .css_observaciones_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_observaciones_grid_line, .css_observaciones_grid_line:hover {vertical-align: top;text-align: right;}
+.css_id_label, .css_id_label:hover {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_id_grid_line, .css_id_grid_line:hover {vertical-align: top;text-align: right;}
+.css_id_periodo_label, .css_id_periodo_label:hover {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_id_periodo_grid_line, .css_id_periodo_grid_line:hover {vertical-align: top;text-align: right;}

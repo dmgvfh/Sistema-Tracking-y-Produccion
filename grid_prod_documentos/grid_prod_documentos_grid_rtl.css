@@ -1,0 +1,12 @@
+.css_id_proyecto_label, .css_id_proyecto_label:hover {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_id_proyecto_grid_line, .css_id_proyecto_grid_line:hover {vertical-align: top;text-align: right;}
+.css_id_carpeta_label, .css_id_carpeta_label:hover {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_id_carpeta_grid_line, .css_id_carpeta_grid_line:hover {vertical-align: top;text-align: right;}
+.css_id_tipo_doc_label, .css_id_tipo_doc_label:hover {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_id_tipo_doc_grid_line, .css_id_tipo_doc_grid_line:hover {vertical-align: top;text-align: right;}
+.css_nombre_documento_label, .css_nombre_documento_label:hover {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_nombre_documento_grid_line, .css_nombre_documento_grid_line:hover {vertical-align: top;text-align: right;}
+.css_descripcion_label, .css_descripcion_label:hover {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_descripcion_grid_line, .css_descripcion_grid_line:hover {vertical-align: top;text-align: right;}
+.css_fecha_label, .css_fecha_label:hover {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_fecha_grid_line, .css_fecha_grid_line:hover {vertical-align: top;text-align: center;}

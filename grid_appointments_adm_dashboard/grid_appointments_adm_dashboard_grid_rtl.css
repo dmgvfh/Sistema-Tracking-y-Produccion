@@ -1,0 +1,14 @@
+.css_staff_label, .css_staff_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_staff_grid_line, .css_staff_grid_line:hover {vertical-align: top;text-align: right;}
+.css_total_appointments_label, .css_total_appointments_label:hover {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_total_appointments_grid_line, .css_total_appointments_grid_line:hover {vertical-align: top;text-align: right;}
+.css_concluded_label, .css_concluded_label:hover {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_concluded_grid_line, .css_concluded_grid_line:hover {vertical-align: top;text-align: right;}
+.css_canceled_label, .css_canceled_label:hover {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_canceled_grid_line, .css_canceled_grid_line:hover {vertical-align: top;text-align: right;}
+.css_avg_rating_label, .css_avg_rating_label:hover {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_avg_rating_grid_line, .css_avg_rating_grid_line:hover {vertical-align: top;text-align: right;}
+.css_total_hours_label, .css_total_hours_label:hover {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_total_hours_grid_line, .css_total_hours_grid_line:hover {vertical-align: top;text-align: right;}
+.css_total_price_label, .css_total_price_label:hover {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_total_price_grid_line, .css_total_price_grid_line:hover {vertical-align: top;text-align: right;}

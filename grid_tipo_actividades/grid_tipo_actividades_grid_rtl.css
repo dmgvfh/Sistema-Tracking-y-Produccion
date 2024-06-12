@@ -1,0 +1,10 @@
+.css_nombre_actividad_label, .css_nombre_actividad_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_nombre_actividad_grid_line, .css_nombre_actividad_grid_line:hover {vertical-align: top;text-align: right;}
+.css_descripcion_actividad_label, .css_descripcion_actividad_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_descripcion_actividad_grid_line, .css_descripcion_actividad_grid_line:hover {vertical-align: top;text-align: right;}
+.css_id_unidad_organizativa_label, .css_id_unidad_organizativa_label:hover {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_id_unidad_organizativa_grid_line, .css_id_unidad_organizativa_grid_line:hover {vertical-align: top;text-align: right;}
+.css_habilitado_label, .css_habilitado_label:hover {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_habilitado_grid_line, .css_habilitado_grid_line:hover {vertical-align: top;text-align: right;}
+.css_id_label, .css_id_label:hover {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_id_grid_line, .css_id_grid_line:hover {vertical-align: top;text-align: right;}

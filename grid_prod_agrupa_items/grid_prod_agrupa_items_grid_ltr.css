@@ -1,0 +1,4 @@
+.css_nombre_agrupador_label, .css_nombre_agrupador_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_nombre_agrupador_grid_line, .css_nombre_agrupador_grid_line:hover {vertical-align: top;text-align: left;}
+.css_id_label, .css_id_label:hover {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_id_grid_line, .css_id_grid_line:hover {vertical-align: top;text-align: right;}

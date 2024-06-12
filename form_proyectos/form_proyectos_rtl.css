@@ -1,0 +1,66 @@
+.css_codigo_label { }
+.css_codigo_line { }
+.css_codigo_obj { }
+.css_nombre_proyecto_label { }
+.css_nombre_proyecto_line { }
+.css_nombre_proyecto_obj { }
+.css_fecha_inicio_label { }
+.css_fecha_inicio_line { }
+.css_fecha_inicio_obj { }
+.css_fecha_termino_label { }
+.css_fecha_termino_line { }
+.css_fecha_termino_obj { }
+.css_duracion_label { }
+.css_duracion_line {text-align:left;}
+.css_duracion_obj {text-align:left;}
+.css_presupuesto_label { }
+.css_presupuesto_line {text-align:left;}
+.css_presupuesto_obj {text-align:left;}
+.css_id_portafolio_label { }
+.css_id_portafolio_line {text-align:left;}
+.css_id_portafolio_obj {text-align:left;}
+.css_id_estado_label { }
+.css_id_estado_line {text-align:left;}
+.css_id_estado_obj {text-align:left;}
+.css_descripcion_label { }
+.css_descripcion_line { }
+.css_descripcion_obj { }
+.css_id_fase_label { }
+.css_id_fase_line {text-align:left;}
+.css_id_fase_obj {text-align:left;}
+.css_habilitado_label { }
+.css_habilitado_line { }
+.css_habilitado_obj { }
+.css_id_direccion_label { }
+.css_id_direccion_line {text-align:left;}
+.css_id_direccion_obj {text-align:left;}
+.css_id_jefe_proyecto_label { }
+.css_id_jefe_proyecto_line {text-align:left;}
+.css_id_jefe_proyecto_obj {text-align:left;}
+.css_id_cliente_label { }
+.css_id_cliente_line {text-align:left;}
+.css_id_cliente_obj {text-align:left;}
+.css_id_empresa_label { }
+.css_id_empresa_line {text-align:left;}
+.css_id_empresa_obj {text-align:left;}
+.css_tipo_moneda_label { }
+.css_tipo_moneda_line {text-align:left;}
+.css_tipo_moneda_obj {text-align:left;}
+.css_afecta_iva_label { }
+.css_afecta_iva_line {text-align:left;}
+.css_afecta_iva_obj {text-align:left;}
+.css_incluye_retencion_label { }
+.css_incluye_retencion_line {text-align:left;}
+.css_incluye_retencion_obj {text-align:left;}
+.css_existe_retencion_label { }
+.css_existe_retencion_line {text-align:left;}
+.css_existe_retencion_obj {text-align:left;}
+.css_observaciones_label { }
+.css_observaciones_line { }
+.css_observaciones_obj { }
+.css_items_proyecto_label { }
+.css_items_proyecto_line { }
+.css_items_proyecto_obj { }
+.css_proyecto_usuarios_label { }
+.css_proyecto_usuarios_line { }
+.css_proyecto_usuarios_obj { }

@@ -1,0 +1,108 @@
+.css_id_label {text-align:;}
+.css_id_line {text-align:left;}
+.css_id_obj {text-align:left;}
+.css_id_proyecto_label { }
+.css_id_proyecto_line {text-align:left;}
+.css_id_proyecto_obj {text-align:left;}
+.css_fecha_label { }
+.css_fecha_line { }
+.css_fecha_obj { }
+.css_monto_uf_label {background-color:#CCFFCC;font-weight:bold;}
+.css_monto_uf_line {background-color:#CCFFCC;font-weight:bold;text-align:left;}
+.css_monto_uf_obj {text-align:left;}
+.css_observaciones_label { }
+.css_observaciones_line { }
+.css_observaciones_obj { }
+.css_id_partida_label {background-color:#FFFFCC;}
+.css_id_partida_line {background-color:#FFFFCC;text-align:left;}
+.css_id_partida_obj {background-color:#FFFFCC;text-align:left;}
+.css_facturado_label { }
+.css_facturado_line { }
+.css_facturado_obj { }
+.css_valor_uf_label { }
+.css_valor_uf_line {text-align:left;}
+.css_valor_uf_obj {text-align:left;}
+.css_factura_label { }
+.css_factura_line { }
+.css_factura_obj { }
+.css_tipo_moneda_label { }
+.css_tipo_moneda_line {text-align:left;}
+.css_tipo_moneda_obj {text-align:left;}
+.css_retencion_label {background-color:#CCFFCC;}
+.css_retencion_line {background-color:#CCFFCC;font-weight:bold;text-align:left;}
+.css_retencion_obj {text-align:left;}
+.css_multa_label { }
+.css_multa_line {text-align:left;}
+.css_multa_obj {text-align:left;}
+.css_fecha_desde_label { }
+.css_fecha_desde_line { }
+.css_fecha_desde_obj { }
+.css_fecha_hasta_label { }
+.css_fecha_hasta_line { }
+.css_fecha_hasta_obj { }
+.css_dias_desde_label { }
+.css_dias_desde_line {text-align:left;}
+.css_dias_desde_obj {text-align:left;}
+.css_dias_hasta_label { }
+.css_dias_hasta_line {text-align:left;}
+.css_dias_hasta_obj {text-align:left;}
+.css_dias_periodo_label { }
+.css_dias_periodo_line {text-align:left;}
+.css_dias_periodo_obj {text-align:left;}
+.css_total_facturado_label { }
+.css_total_facturado_line {text-align:left;}
+.css_total_facturado_obj {text-align:left;}
+.css_fecha_desde_factura_label { }
+.css_fecha_desde_factura_line { }
+.css_fecha_desde_factura_obj { }
+.css_fecha_hasta_factura_label { }
+.css_fecha_hasta_factura_line { }
+.css_fecha_hasta_factura_obj { }
+.css_avance_informado_con_iva_label { }
+.css_avance_informado_con_iva_line {text-align:left;}
+.css_avance_informado_con_iva_obj {text-align:left;}
+.css_retencion_con_iva_label { }
+.css_retencion_con_iva_line {text-align:left;}
+.css_retencion_con_iva_obj {text-align:left;}
+.css_produccion_neto_label {background-color:#CCFFCC;font-weight:bold;}
+.css_produccion_neto_line {background-color:#CCFFCC;text-align:left;}
+.css_produccion_neto_obj {text-align:left;}
+.css_reajuste_acumulado_neto_label { }
+.css_reajuste_acumulado_neto_line {text-align:left;}
+.css_reajuste_acumulado_neto_obj {text-align:left;}
+.css_reajuste_acumulado_con_iva_label { }
+.css_reajuste_acumulado_con_iva_line {text-align:left;}
+.css_reajuste_acumulado_con_iva_obj {text-align:left;}
+.css_considera_retencion_label { }
+.css_considera_retencion_line {text-align:left;}
+.css_considera_retencion_obj {text-align:left;}
+.css_cliente_label { }
+.css_cliente_line { }
+.css_cliente_obj { }
+.css_empresa_label { }
+.css_empresa_line { }
+.css_empresa_obj { }
+.css_hitos_facturacion_label { }
+.css_hitos_facturacion_line { }
+.css_hitos_facturacion_obj { }
+.css_iva_label {background-color:#CCFFCC;}
+.css_iva_line {background-color:#CCFFCC;font-weight:bold;}
+.css_iva_obj {text-align:right;}
+.css_monto_contrato_label { }
+.css_monto_contrato_line { }
+.css_monto_contrato_obj { }
+.css_retencion_acumulada_label { }
+.css_retencion_acumulada_line { }
+.css_retencion_acumulada_obj {text-align:right;}
+.css_incluye_retencion_label { }
+.css_incluye_retencion_line { }
+.css_incluye_retencion_obj { }
+.css_existe_retencion_label { }
+.css_existe_retencion_line { }
+.css_existe_retencion_obj { }
+.css_observaciones_solicitud_label { }
+.css_observaciones_solicitud_line { }
+.css_observaciones_solicitud_obj { }
+.css_afecta_iva_label { }
+.css_afecta_iva_line { }
+.css_afecta_iva_obj {text-align:right;}

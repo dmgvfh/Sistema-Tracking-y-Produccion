@@ -1,0 +1,37 @@
+.css_codigo_label, .css_codigo_label:hover {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_codigo_grid_line, .css_codigo_grid_line:hover {vertical-align: top;text-align: left;}
+.css_nombre_proyecto_label, .css_nombre_proyecto_label:hover {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_nombre_proyecto_grid_line, .css_nombre_proyecto_grid_line:hover {vertical-align: top;text-align: left;}
+.css_id_empresa_label, .css_id_empresa_label:hover {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_id_empresa_grid_line, .css_id_empresa_grid_line:hover {vertical-align: top;text-align: right;}
+.css_id_cliente_label, .css_id_cliente_label:hover {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_id_cliente_grid_line, .css_id_cliente_grid_line:hover {background-color:#FFFFCC;vertical-align: top;text-align: right;}
+.css_id_jefe_proyecto_label, .css_id_jefe_proyecto_label:hover {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_id_jefe_proyecto_grid_line, .css_id_jefe_proyecto_grid_line:hover {vertical-align: top;text-align: right;}
+.css_id_direccion_label, .css_id_direccion_label:hover {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_id_direccion_grid_line, .css_id_direccion_grid_line:hover {vertical-align: top;text-align: right;}
+.css_id_portafolio_label, .css_id_portafolio_label:hover {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_id_portafolio_grid_line, .css_id_portafolio_grid_line:hover {vertical-align: top;text-align: right;}
+.css_fecha_inicio_label, .css_fecha_inicio_label:hover {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_fecha_inicio_grid_line, .css_fecha_inicio_grid_line:hover {vertical-align: top;text-align: center;}
+.css_fecha_termino_label, .css_fecha_termino_label:hover {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_fecha_termino_grid_line, .css_fecha_termino_grid_line:hover {vertical-align: top;text-align: center;}
+.css_tipo_moneda_label, .css_tipo_moneda_label:hover {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_tipo_moneda_grid_line, .css_tipo_moneda_grid_line:hover {vertical-align: top;text-align: right;}
+.css_duracion_label, .css_duracion_label:hover {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_duracion_grid_line, .css_duracion_grid_line:hover {vertical-align: top;text-align: right;}
+.css_presupuesto_label, .css_presupuesto_label:hover {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_presupuesto_grid_line, .css_presupuesto_grid_line:hover {vertical-align: top;text-align: right;}
+.css_id_fase_label, .css_id_fase_label:hover {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_id_fase_grid_line, .css_id_fase_grid_line:hover {vertical-align: top;text-align: right;}
+.css_id_estado_label, .css_id_estado_label:hover {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_id_estado_grid_line, .css_id_estado_grid_line:hover {vertical-align: top;text-align: right;}
+.css_habilitado_label, .css_habilitado_label:hover {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_habilitado_grid_line, .css_habilitado_grid_line:hover {vertical-align: top;text-align: right;}
+.css_afecta_iva_label, .css_afecta_iva_label:hover {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_afecta_iva_grid_line, .css_afecta_iva_grid_line:hover {vertical-align: top;text-align: right;}
+.css_observaciones_label, .css_observaciones_label:hover {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_observaciones_grid_line, .css_observaciones_grid_line:hover {vertical-align: top;text-align: left;}
+.css_usuarios_label, .css_usuarios_label:hover {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_usuarios_grid_line, .css_usuarios_grid_line:hover {background-color:#FFFFCC;text-align: right;}
+.css_presupuesto_itemizado_grid_line, .css_presupuesto_itemizado_grid_line:hover {text-align: left;}

@@ -1,0 +1,23 @@
+.css_nombre_proyecto_label, .css_nombre_proyecto_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_nombre_proyecto_grid_line, .css_nombre_proyecto_grid_line:hover {vertical-align: top;text-align: right;}
+.css_presupuesto_label, .css_presupuesto_label:hover {text-align:;vertical-align:middle;justify-content:;font-weight:bold;}
+.css_presupuesto_grid_line, .css_presupuesto_grid_line:hover {text-align: center;}
+.css_correlativo_mes_label, .css_correlativo_mes_label:hover {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_correlativo_mes_grid_line, .css_correlativo_mes_grid_line:hover {vertical-align: top;text-align: right;}
+.css_modificacion_contrato_label, .css_modificacion_contrato_label:hover {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_modificacion_contrato_grid_line, .css_modificacion_contrato_grid_line:hover {vertical-align: top;text-align: right;}
+.css_fecha_label, .css_fecha_label:hover {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_fecha_grid_line, .css_fecha_grid_line:hover {vertical-align: top;text-align: center;}
+.css_avance_label, .css_avance_label:hover {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_avance_grid_line, .css_avance_grid_line:hover {vertical-align: top;text-align: right;}
+.css_facturacion_label, .css_facturacion_label:hover {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_facturacion_grid_line, .css_facturacion_grid_line:hover {vertical-align: top;text-align: right;}
+.css_saldo_ur_label, .css_saldo_ur_label:hover {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_saldo_ur_grid_line, .css_saldo_ur_grid_line:hover {vertical-align: top;text-align: right;}
+.css_ur_real_label, .css_ur_real_label:hover {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_ur_real_grid_line, .css_ur_real_grid_line:hover {vertical-align: top;text-align: right;}
+.css_backlog_p_label, .css_backlog_p_label:hover {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_backlog_p_grid_line, .css_backlog_p_grid_line:hover {vertical-align: top;text-align: right;}
+.css_backlog_f_label, .css_backlog_f_label:hover {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_backlog_f_grid_line, .css_backlog_f_grid_line:hover {vertical-align: top;text-align: right;}
+.css_detalle_partida_grid_line, .css_detalle_partida_grid_line:hover {text-align: right;}

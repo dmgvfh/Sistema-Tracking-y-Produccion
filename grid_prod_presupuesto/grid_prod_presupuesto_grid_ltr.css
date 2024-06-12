@@ -1,0 +1,30 @@
+.css_agrupador_label, .css_agrupador_label:hover {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_agrupador_grid_line, .css_agrupador_grid_line:hover {vertical-align: top;text-align: left;}
+.css_prod_items_base_item_label, .css_prod_items_base_item_label:hover {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_prod_items_base_item_grid_line, .css_prod_items_base_item_grid_line:hover {vertical-align: top;text-align: left;}
+.css_prod_presupuesto_id_partida_periodo_label, .css_prod_presupuesto_id_partida_periodo_label:hover {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_prod_presupuesto_id_partida_periodo_grid_line, .css_prod_presupuesto_id_partida_periodo_grid_line:hover {background-color:#CCFFFF;vertical-align: top;text-align: right;}
+.css_prod_presupuesto_fecha_label, .css_prod_presupuesto_fecha_label:hover {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_prod_presupuesto_fecha_grid_line, .css_prod_presupuesto_fecha_grid_line:hover {vertical-align: top;text-align: center;}
+.css_prod_presupuesto_unidades_label, .css_prod_presupuesto_unidades_label:hover {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_prod_presupuesto_unidades_grid_line, .css_prod_presupuesto_unidades_grid_line:hover {background-color:#CCFFFF;vertical-align: top;text-align: right;}
+.css_prod_presupuesto_unidades_tot_ger, .css_prod_presupuesto_unidades_tot_ger:hover {text-align: ;text-align: right;}
+.css_prod_presupuesto_tipo_moneda_label, .css_prod_presupuesto_tipo_moneda_label:hover {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_prod_presupuesto_tipo_moneda_grid_line, .css_prod_presupuesto_tipo_moneda_grid_line:hover {vertical-align: top;text-align: right;}
+.css_prod_presupuesto_valor_unitario_label, .css_prod_presupuesto_valor_unitario_label:hover {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_prod_presupuesto_valor_unitario_grid_line, .css_prod_presupuesto_valor_unitario_grid_line:hover {vertical-align: top;text-align: right;}
+.css_prod_presupuesto_monto_uf_label, .css_prod_presupuesto_monto_uf_label:hover {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_prod_presupuesto_monto_uf_grid_line, .css_prod_presupuesto_monto_uf_grid_line:hover {background-color:#CCFFFF;vertical-align: top;text-align: right;}
+.css_prod_presupuesto_monto_uf_tot_ger, .css_prod_presupuesto_monto_uf_tot_ger:hover {text-align: ;text-align: right;}
+.css_prod_presupuesto_observaciones_label, .css_prod_presupuesto_observaciones_label:hover {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_prod_presupuesto_observaciones_grid_line, .css_prod_presupuesto_observaciones_grid_line:hover {vertical-align: top;text-align: left;}
+.css_prod_presupuesto_id_label, .css_prod_presupuesto_id_label:hover {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_prod_presupuesto_id_grid_line, .css_prod_presupuesto_id_grid_line:hover {vertical-align: top;text-align: right;}
+.css_prod_presupuesto_id_proyecto_label, .css_prod_presupuesto_id_proyecto_label:hover {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_prod_presupuesto_id_proyecto_grid_line, .css_prod_presupuesto_id_proyecto_grid_line:hover {vertical-align: top;text-align: right;}
+.css_prod_presupuesto_vigente_label, .css_prod_presupuesto_vigente_label:hover {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_prod_presupuesto_vigente_grid_line, .css_prod_presupuesto_vigente_grid_line:hover {vertical-align: top;text-align: right;}
+.css_prod_presupuesto_unidades_S_sub_tot, .css_prod_presupuesto_unidades_S_sub_tot:hover {text-align: left;text-align: right;background-color:#CCFFCC;font-weight:bold;}
+.css_prod_presupuesto_unidades_S_tot_ger, .css_prod_presupuesto_unidades_S_tot_ger:hover {text-align: right;}
+.css_prod_presupuesto_monto_uf_S_sub_tot, .css_prod_presupuesto_monto_uf_S_sub_tot:hover {text-align: left;text-align: right;background-color:#CCFFCC;font-weight:bold;}
+.css_prod_presupuesto_monto_uf_S_tot_ger, .css_prod_presupuesto_monto_uf_S_tot_ger:hover {text-align: right;}

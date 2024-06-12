@@ -1,0 +1,21 @@
+.css_codigo_proyecto_label, .css_codigo_proyecto_label:hover {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_codigo_proyecto_grid_line, .css_codigo_proyecto_grid_line:hover {vertical-align: top;text-align: left;}
+.css_nombre_usuario_label, .css_nombre_usuario_label:hover {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_nombre_usuario_grid_line, .css_nombre_usuario_grid_line:hover {vertical-align: top;text-align: left;}
+.css_appointments_nombre_label, .css_appointments_nombre_label:hover {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_appointments_nombre_grid_line, .css_appointments_nombre_grid_line:hover {vertical-align: top;text-align: left;}
+.css_nombre_actividad_label, .css_nombre_actividad_label:hover {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_nombre_actividad_grid_line, .css_nombre_actividad_grid_line:hover {vertical-align: top;text-align: left;}
+.css_appointments_current_status_id_label, .css_appointments_current_status_id_label:hover {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_appointments_current_status_id_grid_line, .css_appointments_current_status_id_grid_line:hover {font-weight:bold;vertical-align: top;text-align: right;}
+.css_appointments_appointment_start_date_label, .css_appointments_appointment_start_date_label:hover {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_appointments_appointment_start_date_grid_line, .css_appointments_appointment_start_date_grid_line:hover {vertical-align: top;text-align: center;}
+.css_appointments_appointment_start_time_label, .css_appointments_appointment_start_time_label:hover {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_appointments_appointment_start_time_grid_line, .css_appointments_appointment_start_time_grid_line:hover {vertical-align: top;text-align: center;}
+.css_appointments_appointment_end_time_label, .css_appointments_appointment_end_time_label:hover {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_appointments_appointment_end_time_grid_line, .css_appointments_appointment_end_time_grid_line:hover {vertical-align: top;text-align: center;}
+.css_appointments_intervalo_label, .css_appointments_intervalo_label:hover {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_appointments_intervalo_grid_line, .css_appointments_intervalo_grid_line:hover {vertical-align: top;text-align: right;}
+.css_appointments_intervalo_sub_tot, .css_appointments_intervalo_sub_tot:hover {text-align: right;font-weight:bold;}
+.css_appointments_intervalo_tot_ger, .css_appointments_intervalo_tot_ger:hover {text-align: right;}
+.css_bitacora_grid_line, .css_bitacora_grid_line:hover {text-align: left;}

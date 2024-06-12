@@ -1,0 +1,42 @@
+.css_id_proyecto__label { }
+.css_id_proyecto__line {text-align:left;}
+.css_id_proyecto__obj {text-align:left;}
+.css_id_item__label { }
+.css_id_item__line {text-align:left;}
+.css_id_item__obj {text-align:left;}
+.css_avance__label {text-align:center;vertical-align:top;}
+.css_avance__line {text-align:left;}
+.css_avance__obj {text-align:left;}
+.css_unidades_periodo__label { }
+.css_unidades_periodo__line {text-align:left;}
+.css_unidades_periodo__obj {text-align:left;}
+.css_facturado__label { }
+.css_facturado__line { }
+.css_facturado__obj { }
+.css_observaciones__label { }
+.css_observaciones__line { }
+.css_observaciones__obj { }
+.css_id_partida__label { }
+.css_id_partida__line { }
+.css_id_partida__obj {text-align:right;}
+.css_monto_por_facturar__label {text-align:center;vertical-align:top;}
+.css_monto_por_facturar__line {text-align:right;}
+.css_monto_por_facturar__obj {text-align:right;}
+.css_monto_presupuesto__label {text-align:center;vertical-align:top;}
+.css_monto_presupuesto__line {text-align:right;}
+.css_monto_presupuesto__obj { }
+.css_monto_utilizado__label {text-align:center;vertical-align:top;}
+.css_monto_utilizado__line {text-align:right;}
+.css_monto_utilizado__obj { }
+.css_presupuesto_disponible__label {text-align:center;vertical-align:top;}
+.css_presupuesto_disponible__line {font-weight:bold;text-align:right;}
+.css_presupuesto_disponible__obj { }
+.css_tipo_moneda__label { }
+.css_tipo_moneda__line { }
+.css_tipo_moneda__obj { }
+.css_valor_unitario__label { }
+.css_valor_unitario__line { }
+.css_valor_unitario__obj {text-align:right;}
+.css_atencion__label { }
+.css_atencion__line { }
+.css_atencion__obj { }

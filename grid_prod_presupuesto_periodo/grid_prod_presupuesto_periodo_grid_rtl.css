@@ -1,0 +1,57 @@
+.css_L1C1_label, .css_L1C1_label:hover {text-align:center;vertical-align:middle;background-color:#FFFFFF;}
+.css_L1C2_label, .css_L1C2_label:hover {text-align:center;vertical-align:middle;background-color:#CCFFCC;}
+.css_L1C3_label, .css_L1C3_label:hover {text-align:center;vertical-align:middle;background-color:#CCFFFF;}
+.css_L1C4_label, .css_L1C4_label:hover {text-align:center;vertical-align:middle;background-color:#FFFFFF;}
+.css_L1C5_label, .css_L1C5_label:hover {text-align:center;vertical-align:middle;background-color:#FFFFFF;}
+.css_L1C6_label, .css_L1C6_label:hover {text-align:center;vertical-align:middle;background-color:#FFFFFF;}
+.css_id_partida_label, .css_id_partida_label:hover {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_id_partida_grid_line, .css_id_partida_grid_line:hover {background-color:#CCFFFF;vertical-align: top;text-align: right;}
+.css_monto_disponible_label, .css_monto_disponible_label:hover {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_monto_disponible_grid_line, .css_monto_disponible_grid_line:hover {vertical-align: top;text-align: center;}
+.css_fecha_desde_label, .css_fecha_desde_label:hover {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_fecha_desde_grid_line, .css_fecha_desde_grid_line:hover {background-color:#CCFFFF;vertical-align: top;text-align: center;}
+.css_fecha_hasta_label, .css_fecha_hasta_label:hover {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_fecha_hasta_grid_line, .css_fecha_hasta_grid_line:hover {background-color:#CCFFFF;vertical-align: top;text-align: center;}
+.css_dias_desde_label, .css_dias_desde_label:hover {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_dias_desde_grid_line, .css_dias_desde_grid_line:hover {vertical-align: top;text-align: right;}
+.css_dias_hasta_label, .css_dias_hasta_label:hover {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_dias_hasta_grid_line, .css_dias_hasta_grid_line:hover {vertical-align: top;text-align: right;}
+.css_dias_periodo_label, .css_dias_periodo_label:hover {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_dias_periodo_grid_line, .css_dias_periodo_grid_line:hover {vertical-align: top;text-align: right;}
+.css_fecha_desde_factura_label, .css_fecha_desde_factura_label:hover {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_fecha_desde_factura_grid_line, .css_fecha_desde_factura_grid_line:hover {background-color:#FFFFCC;vertical-align: top;text-align: center;}
+.css_fecha_hasta_factura_label, .css_fecha_hasta_factura_label:hover {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_fecha_hasta_factura_grid_line, .css_fecha_hasta_factura_grid_line:hover {background-color:#FFFFCC;vertical-align: top;text-align: center;}
+.css_monto_uf_label, .css_monto_uf_label:hover {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_monto_uf_grid_line, .css_monto_uf_grid_line:hover {background-color:#CCFFFF;font-weight:bold;vertical-align: top;text-align: right;}
+.css_iva_label, .css_iva_label:hover {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_iva_grid_line, .css_iva_grid_line:hover {text-align: right;}
+.css_produccion_neto_label, .css_produccion_neto_label:hover {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_produccion_neto_grid_line, .css_produccion_neto_grid_line:hover {background-color:#CCFFFF;font-weight:bold;vertical-align: top;text-align: right;}
+.css_reajuste_label, .css_reajuste_label:hover {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_reajuste_grid_line, .css_reajuste_grid_line:hover {vertical-align: top;text-align: right;}
+.css_retencion_label, .css_retencion_label:hover {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_retencion_grid_line, .css_retencion_grid_line:hover {vertical-align: top;text-align: right;}
+.css_multa_label, .css_multa_label:hover {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_multa_grid_line, .css_multa_grid_line:hover {vertical-align: top;text-align: right;}
+.css_avance_informado_label, .css_avance_informado_label:hover {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_avance_informado_grid_line, .css_avance_informado_grid_line:hover {background-color:#CCFFFF;font-weight:bold;vertical-align: top;text-align: right;}
+.css_avance_label, .css_avance_label:hover {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_avance_grid_line, .css_avance_grid_line:hover {vertical-align: top;text-align: right;}
+.css_avance_periodo_label, .css_avance_periodo_label:hover {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_avance_periodo_grid_line, .css_avance_periodo_grid_line:hover {vertical-align: top;text-align: right;}
+.css_avance_periodo_siguiente_label, .css_avance_periodo_siguiente_label:hover {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_avance_periodo_siguiente_grid_line, .css_avance_periodo_siguiente_grid_line:hover {vertical-align: top;text-align: right;}
+.css_facturado_label, .css_facturado_label:hover {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_facturado_grid_line, .css_facturado_grid_line:hover {background-color:#FFFFCC;vertical-align: top;text-align: right;}
+.css_factura_label, .css_factura_label:hover {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_factura_grid_line, .css_factura_grid_line:hover {vertical-align: top;text-align: center;}
+.css_fecha_label, .css_fecha_label:hover {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_fecha_grid_line, .css_fecha_grid_line:hover {vertical-align: top;text-align: center;}
+.css_facturado_obs_label, .css_facturado_obs_label:hover {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_facturado_obs_grid_line, .css_facturado_obs_grid_line:hover {}
+.css_id_label, .css_id_label:hover {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_id_grid_line, .css_id_grid_line:hover {vertical-align: top;text-align: right;}
+.css_detalle_partida_grid_line, .css_detalle_partida_grid_line:hover {text-align: right;}
+.css_hitos_asociados_grid_line, .css_hitos_asociados_grid_line:hover {text-align: right;}
+.css_historial_facturacion_grid_line, .css_historial_facturacion_grid_line:hover {text-align: right;}

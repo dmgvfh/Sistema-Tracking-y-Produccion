@@ -1,0 +1,24 @@
+.css_L1C1_label, .css_L1C1_label:hover {text-align:center;vertical-align:middle;background-color:#CCFFFF;}
+.css_prod_agrupa_items_nombre_agrupador_label, .css_prod_agrupa_items_nombre_agrupador_label:hover {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_prod_agrupa_items_nombre_agrupador_grid_line, .css_prod_agrupa_items_nombre_agrupador_grid_line:hover {vertical-align: top;text-align: left;}
+.css_prod_items_base_item_label, .css_prod_items_base_item_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_prod_items_base_item_grid_line, .css_prod_items_base_item_grid_line:hover {vertical-align: top;text-align: left;}
+.css_no_facturado_label, .css_no_facturado_label:hover {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_no_facturado_grid_line, .css_no_facturado_grid_line:hover {background-color:#FF9900;text-align: right;}
+.css_tipo_moneda_label, .css_tipo_moneda_label:hover {text-align:;vertical-align:middle;justify-content:;font-weight:bold;}
+.css_tipo_moneda_grid_line, .css_tipo_moneda_grid_line:hover {text-align: center;}
+.css_prod_partida_presupuesto_periodo_unidades_periodo_label, .css_prod_partida_presupuesto_periodo_unidades_periodo_label:hover {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_prod_partida_presupuesto_periodo_unidades_periodo_grid_line, .css_prod_partida_presupuesto_periodo_unidades_periodo_grid_line:hover {vertical-align: top;text-align: right;}
+.css_valor_unitario_label, .css_valor_unitario_label:hover {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_valor_unitario_grid_line, .css_valor_unitario_grid_line:hover {background-color:#FFFFCC;text-align: right;}
+.css_prod_partida_presupuesto_periodo_avance_label, .css_prod_partida_presupuesto_periodo_avance_label:hover {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_prod_partida_presupuesto_periodo_avance_grid_line, .css_prod_partida_presupuesto_periodo_avance_grid_line:hover {background-color:#CCFFFF;vertical-align: top;text-align: right;}
+.css_prod_partida_presupuesto_periodo_avance_tot_ger, .css_prod_partida_presupuesto_periodo_avance_tot_ger:hover {text-align: ;text-align: right;}
+.css_utilizado_label, .css_utilizado_label:hover {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_utilizado_grid_line, .css_utilizado_grid_line:hover {text-align: right;}
+.css_prod_partida_presupuesto_periodo_observaciones_label, .css_prod_partida_presupuesto_periodo_observaciones_label:hover {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_prod_partida_presupuesto_periodo_observaciones_grid_line, .css_prod_partida_presupuesto_periodo_observaciones_grid_line:hover {vertical-align: top;text-align: left;}
+.css_prod_partida_presupuesto_periodo_id_periodo_factura_label, .css_prod_partida_presupuesto_periodo_id_periodo_factura_label:hover {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_prod_partida_presupuesto_periodo_id_periodo_factura_grid_line, .css_prod_partida_presupuesto_periodo_id_periodo_factura_grid_line:hover {vertical-align: top;text-align: right;}
+.css_prod_partida_presupuesto_periodo_avance_S_sub_tot, .css_prod_partida_presupuesto_periodo_avance_S_sub_tot:hover {text-align: left;text-align: right;}
+.css_prod_partida_presupuesto_periodo_avance_S_tot_ger, .css_prod_partida_presupuesto_periodo_avance_S_tot_ger:hover {text-align: right;}

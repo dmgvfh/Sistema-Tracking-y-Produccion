@@ -1,0 +1,24 @@
+.css_nombre_label, .css_nombre_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_nombre_grid_line, .css_nombre_grid_line:hover {vertical-align: top;text-align: left;}
+.css_nombre_legal_label, .css_nombre_legal_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_nombre_legal_grid_line, .css_nombre_legal_grid_line:hover {vertical-align: top;text-align: left;}
+.css_rut_label, .css_rut_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_rut_grid_line, .css_rut_grid_line:hover {vertical-align: top;text-align: left;}
+.css_giro_label, .css_giro_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_giro_grid_line, .css_giro_grid_line:hover {vertical-align: top;text-align: left;}
+.css_direccion_label, .css_direccion_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_direccion_grid_line, .css_direccion_grid_line:hover {vertical-align: top;text-align: left;}
+.css_contacto_label, .css_contacto_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_contacto_grid_line, .css_contacto_grid_line:hover {vertical-align: top;text-align: left;}
+.css_email_label, .css_email_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_email_grid_line, .css_email_grid_line:hover {vertical-align: top;text-align: left;}
+.css_telefono_label, .css_telefono_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_telefono_grid_line, .css_telefono_grid_line:hover {vertical-align: top;text-align: left;}
+.css_contacto2_label, .css_contacto2_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_contacto2_grid_line, .css_contacto2_grid_line:hover {vertical-align: top;text-align: left;}
+.css_email2_label, .css_email2_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_email2_grid_line, .css_email2_grid_line:hover {vertical-align: top;text-align: left;}
+.css_telefono2_label, .css_telefono2_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_telefono2_grid_line, .css_telefono2_grid_line:hover {vertical-align: top;text-align: left;}
+.css_id_label, .css_id_label:hover {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_id_grid_line, .css_id_grid_line:hover {vertical-align: top;text-align: right;}

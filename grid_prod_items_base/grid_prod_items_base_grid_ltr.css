@@ -1,0 +1,8 @@
+.css_item_label, .css_item_label:hover {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_item_grid_line, .css_item_grid_line:hover {vertical-align: top;text-align: left;}
+.css_agrupador1_label, .css_agrupador1_label:hover {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_agrupador1_grid_line, .css_agrupador1_grid_line:hover {vertical-align: top;text-align: right;}
+.css_proyectos_asociados_label, .css_proyectos_asociados_label:hover {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_proyectos_asociados_grid_line, .css_proyectos_asociados_grid_line:hover {background-color:#CCFFFF;vertical-align: top;text-align: right;}
+.css_id_item_label, .css_id_item_label:hover {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_id_item_grid_line, .css_id_item_grid_line:hover {vertical-align: top;text-align: right;}

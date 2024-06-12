@@ -1,0 +1,48 @@
+.css_L1C1_label, .css_L1C1_label:hover {text-align:center;vertical-align:middle;background-color:#FFFFFF;}
+.css_L1C2_label, .css_L1C2_label:hover {text-align:center;vertical-align:middle;background-color:#CCFFCC;}
+.css_L1C3_label, .css_L1C3_label:hover {text-align:center;vertical-align:middle;background-color:#CCFFFF;}
+.css_L1C4_label, .css_L1C4_label:hover {text-align:center;vertical-align:middle;background-color:#CCFFCC;}
+.css_id_proyecto_label, .css_id_proyecto_label:hover {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_id_proyecto_grid_line, .css_id_proyecto_grid_line:hover {vertical-align: top;text-align: right;}
+.css_presupuesto_label, .css_presupuesto_label:hover {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_presupuesto_grid_line, .css_presupuesto_grid_line:hover {}
+.css_modificacion_contrato_label, .css_modificacion_contrato_label:hover {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_modificacion_contrato_grid_line, .css_modificacion_contrato_grid_line:hover {vertical-align: top;text-align: right;}
+.css_modificacion_contrato_tot_ger, .css_modificacion_contrato_tot_ger:hover {text-align: ;text-align: right;background-color:#CCFFCC;font-weight:bold;}
+.css_facturacion_label, .css_facturacion_label:hover {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_facturacion_grid_line, .css_facturacion_grid_line:hover {vertical-align: top;text-align: right;}
+.css_facturacion_tot_ger, .css_facturacion_tot_ger:hover {text-align: ;text-align: right;background-color:#CCFFCC;font-weight:bold;}
+.css_reajuste_label, .css_reajuste_label:hover {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_reajuste_grid_line, .css_reajuste_grid_line:hover {vertical-align: top;text-align: right;}
+.css_reajuste_tot_ger, .css_reajuste_tot_ger:hover {text-align: ;text-align: right;background-color:#CCFFCC;font-weight:bold;}
+.css_retencion_label, .css_retencion_label:hover {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_retencion_grid_line, .css_retencion_grid_line:hover {vertical-align: top;text-align: right;}
+.css_retencion_tot_ger, .css_retencion_tot_ger:hover {text-align: ;text-align: right;background-color:#CCFFCC;font-weight:bold;}
+.css_multa_label, .css_multa_label:hover {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_multa_grid_line, .css_multa_grid_line:hover {vertical-align: top;text-align: right;}
+.css_multa_tot_ger, .css_multa_tot_ger:hover {text-align: ;text-align: right;background-color:#CCFFCC;font-weight:bold;}
+.css_avance_label, .css_avance_label:hover {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_avance_grid_line, .css_avance_grid_line:hover {vertical-align: top;text-align: right;}
+.css_avance_tot_ger, .css_avance_tot_ger:hover {text-align: ;text-align: right;background-color:#CCFFCC;font-weight:bold;}
+.css_ur_real_label, .css_ur_real_label:hover {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_ur_real_grid_line, .css_ur_real_grid_line:hover {background-color:#FFFFCC;font-weight:bold;vertical-align: top;text-align: right;}
+.css_ur_real_tot_ger, .css_ur_real_tot_ger:hover {text-align: ;text-align: right;background-color:#CCFFCC;font-weight:bold;}
+.css_backlog_p_label, .css_backlog_p_label:hover {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_backlog_p_grid_line, .css_backlog_p_grid_line:hover {vertical-align: top;text-align: right;}
+.css_backlog_p_tot_ger, .css_backlog_p_tot_ger:hover {text-align: ;text-align: right;background-color:#CCFFCC;font-weight:bold;}
+.css_backlog_f_label, .css_backlog_f_label:hover {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_backlog_f_grid_line, .css_backlog_f_grid_line:hover {vertical-align: top;text-align: right;}
+.css_backlog_f_tot_ger, .css_backlog_f_tot_ger:hover {text-align: ;text-align: right;background-color:#CCFFCC;font-weight:bold;}
+.css_iva_label, .css_iva_label:hover {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_iva_grid_line, .css_iva_grid_line:hover {text-align: right;}
+.css_mod_contrato_iva_label, .css_mod_contrato_iva_label:hover {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_mod_contrato_iva_grid_line, .css_mod_contrato_iva_grid_line:hover {text-align: right;}
+.css_modificacion_contrato_S_tot_ger, .css_modificacion_contrato_S_tot_ger:hover {text-align: right;background-color:#CCFFCC;font-weight:bold;}
+.css_facturacion_S_tot_ger, .css_facturacion_S_tot_ger:hover {text-align: right;background-color:#CCFFCC;font-weight:bold;}
+.css_reajuste_S_tot_ger, .css_reajuste_S_tot_ger:hover {text-align: right;background-color:#CCFFCC;font-weight:bold;}
+.css_retencion_S_tot_ger, .css_retencion_S_tot_ger:hover {text-align: right;background-color:#CCFFCC;font-weight:bold;}
+.css_multa_S_tot_ger, .css_multa_S_tot_ger:hover {text-align: right;background-color:#CCFFCC;font-weight:bold;}
+.css_avance_S_tot_ger, .css_avance_S_tot_ger:hover {text-align: right;background-color:#CCFFCC;font-weight:bold;}
+.css_ur_real_S_tot_ger, .css_ur_real_S_tot_ger:hover {text-align: right;background-color:#CCFFCC;font-weight:bold;}
+.css_backlog_p_S_tot_ger, .css_backlog_p_S_tot_ger:hover {text-align: right;background-color:#CCFFCC;font-weight:bold;}
+.css_backlog_f_S_tot_ger, .css_backlog_f_S_tot_ger:hover {text-align: right;background-color:#CCFFCC;font-weight:bold;}

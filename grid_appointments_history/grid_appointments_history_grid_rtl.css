@@ -1,0 +1,12 @@
+.css_appointments_history_date_label, .css_appointments_history_date_label:hover {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_appointments_history_date_grid_line, .css_appointments_history_date_grid_line:hover {vertical-align: top;text-align: center;}
+.css_appointments_history_descr_label, .css_appointments_history_descr_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_appointments_history_descr_grid_line, .css_appointments_history_descr_grid_line:hover {vertical-align: top;text-align: right;}
+.css_appointment_status_id_label, .css_appointment_status_id_label:hover {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_appointment_status_id_grid_line, .css_appointment_status_id_grid_line:hover {vertical-align: top;text-align: right;}
+.css_sec_users_login_label, .css_sec_users_login_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_sec_users_login_grid_line, .css_sec_users_login_grid_line:hover {vertical-align: top;text-align: right;}
+.css_appointments_history_id_label, .css_appointments_history_id_label:hover {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_appointments_history_id_grid_line, .css_appointments_history_id_grid_line:hover {vertical-align: top;text-align: right;}
+.css_appointments_id_label, .css_appointments_id_label:hover {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_appointments_id_grid_line, .css_appointments_id_grid_line:hover {vertical-align: top;text-align: right;}

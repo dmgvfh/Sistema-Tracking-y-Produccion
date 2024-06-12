@@ -1,0 +1,20 @@
+.css_L1C1_label, .css_L1C1_label:hover {}
+.css_L1C2_label, .css_L1C2_label:hover {}
+.css_L1C3_label, .css_L1C3_label:hover {text-align:center;vertical-align:middle;background-color:#FFFF99;color:#000000;}
+.css_L1C4_label, .css_L1C4_label:hover {}
+.css_L1C5_label, .css_L1C5_label:hover {}
+.css_L1C6_label, .css_L1C6_label:hover {}
+.css_validar_label, .css_validar_label:hover {text-align:;vertical-align:middle;justify-content:;font-weight:bold;}
+.css_validar_grid_line, .css_validar_grid_line:hover {text-align: left;}
+.css_id_label, .css_id_label:hover {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_id_grid_line, .css_id_grid_line:hover {vertical-align: top;text-align: right;}
+.css_horas_enviadas_label, .css_horas_enviadas_label:hover {text-align:;vertical-align:middle;justify-content:;font-weight:bold;}
+.css_horas_enviadas_grid_line, .css_horas_enviadas_grid_line:hover {background-color:#959AAF;font-weight:bold;text-align: right;}
+.css_horas_corregidas_label, .css_horas_corregidas_label:hover {text-align:;vertical-align:middle;justify-content:;font-weight:bold;}
+.css_horas_corregidas_grid_line, .css_horas_corregidas_grid_line:hover {background-color:#FFFF00;font-weight:bold;text-align: right;}
+.css_horas_aprobadas_label, .css_horas_aprobadas_label:hover {text-align:;vertical-align:middle;justify-content:;font-weight:bold;}
+.css_horas_aprobadas_grid_line, .css_horas_aprobadas_grid_line:hover {background-color:#86B404;font-weight:bold;text-align: right;}
+.css_horas_rechazadas_label, .css_horas_rechazadas_label:hover {text-align:;vertical-align:middle;justify-content:;font-weight:bold;}
+.css_horas_rechazadas_grid_line, .css_horas_rechazadas_grid_line:hover {background-color:#FF5733;font-weight:bold;text-align: right;}
+.css_horas_totales_label, .css_horas_totales_label:hover {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_horas_totales_grid_line, .css_horas_totales_grid_line:hover {background-color:#FCFCFC;font-weight:bold;text-align: right;}

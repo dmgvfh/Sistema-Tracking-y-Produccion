@@ -1,0 +1,77 @@
+.css_L1C1_label, .css_L1C1_label:hover {text-align:center;vertical-align:middle;background-color:#FFFFFF;}
+.css_L1C2_label, .css_L1C2_label:hover {text-align:center;vertical-align:middle;background-color:#CCFFCC;}
+.css_L1C3_label, .css_L1C3_label:hover {text-align:center;vertical-align:middle;background-color:#CCFFFF;}
+.css_L1C4_label, .css_L1C4_label:hover {text-align:center;vertical-align:middle;background-color:#CCFFCC;}
+.css_fecha_label, .css_fecha_label:hover {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_fecha_grid_line, .css_fecha_grid_line:hover {background-color:#CCFFFF;vertical-align: top;text-align: center;}
+.css_correlativo_mes_label, .css_correlativo_mes_label:hover {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_correlativo_mes_grid_line, .css_correlativo_mes_grid_line:hover {vertical-align: top;text-align: center;}
+.css_tipo_moneda_label, .css_tipo_moneda_label:hover {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_tipo_moneda_grid_line, .css_tipo_moneda_grid_line:hover {}
+.css_valor_uf_presupuesto_label, .css_valor_uf_presupuesto_label:hover {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_valor_uf_presupuesto_grid_line, .css_valor_uf_presupuesto_grid_line:hover {vertical-align: top;text-align: right;}
+.css_presupuesto_label, .css_presupuesto_label:hover {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_presupuesto_grid_line, .css_presupuesto_grid_line:hover {}
+.css_modificacion_contrato_label, .css_modificacion_contrato_label:hover {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_modificacion_contrato_grid_line, .css_modificacion_contrato_grid_line:hover {background-color:#CCFFFF;vertical-align: top;text-align: right;}
+.css_modificacion_contrato_tot_ger, .css_modificacion_contrato_tot_ger:hover {text-align: ;text-align: right;background-color:#CCFFCC;font-weight:bold;}
+.css_presupuesto_acumulado_label, .css_presupuesto_acumulado_label:hover {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_presupuesto_acumulado_grid_line, .css_presupuesto_acumulado_grid_line:hover {vertical-align: top;text-align: right;}
+.css_facturacion_label, .css_facturacion_label:hover {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_facturacion_grid_line, .css_facturacion_grid_line:hover {background-color:#CCFFFF;font-weight:bold;vertical-align: top;text-align: right;}
+.css_facturacion_tot_ger, .css_facturacion_tot_ger:hover {text-align: ;text-align: right;background-color:#CCFFCC;font-weight:bold;}
+.css_produccion_neto_label, .css_produccion_neto_label:hover {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_produccion_neto_grid_line, .css_produccion_neto_grid_line:hover {background-color:#CCFFFF;font-weight:bold;vertical-align: top;text-align: right;}
+.css_reajuste_label, .css_reajuste_label:hover {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_reajuste_grid_line, .css_reajuste_grid_line:hover {vertical-align: top;text-align: right;}
+.css_reajuste_tot_ger, .css_reajuste_tot_ger:hover {text-align: ;text-align: right;background-color:#CCFFCC;font-weight:bold;}
+.css_retencion_label, .css_retencion_label:hover {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_retencion_grid_line, .css_retencion_grid_line:hover {vertical-align: top;text-align: right;}
+.css_retencion_tot_ger, .css_retencion_tot_ger:hover {text-align: ;text-align: right;background-color:#CCFFCC;font-weight:bold;}
+.css_multa_label, .css_multa_label:hover {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_multa_grid_line, .css_multa_grid_line:hover {vertical-align: top;text-align: right;}
+.css_multa_tot_ger, .css_multa_tot_ger:hover {text-align: ;text-align: right;background-color:#CCFFCC;font-weight:bold;}
+.css_produccion_periodo_label, .css_produccion_periodo_label:hover {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_produccion_periodo_grid_line, .css_produccion_periodo_grid_line:hover {background-color:#CCFFFF;vertical-align: top;text-align: right;}
+.css_produccion_periodo_tot_ger, .css_produccion_periodo_tot_ger:hover {text-align: ;text-align: right;background-color:#CCFFCC;font-weight:bold;}
+.css_produccion1_label, .css_produccion1_label:hover {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_produccion1_grid_line, .css_produccion1_grid_line:hover {vertical-align: top;text-align: right;}
+.css_produccion2_label, .css_produccion2_label:hover {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_produccion2_grid_line, .css_produccion2_grid_line:hover {vertical-align: top;text-align: right;}
+.css_avance_label, .css_avance_label:hover {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_avance_grid_line, .css_avance_grid_line:hover {background-color:#CCFFFF;font-weight:bold;vertical-align: top;text-align: right;}
+.css_avance_tot_ger, .css_avance_tot_ger:hover {text-align: ;text-align: right;background-color:#CCFFCC;font-weight:bold;}
+.css_porcentaje_avance_label, .css_porcentaje_avance_label:hover {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_porcentaje_avance_grid_line, .css_porcentaje_avance_grid_line:hover {vertical-align: top;text-align: right;}
+.css_porcentaje_avance2_label, .css_porcentaje_avance2_label:hover {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_porcentaje_avance2_grid_line, .css_porcentaje_avance2_grid_line:hover {text-align: right;}
+.css_diferencia_facturacion_label, .css_diferencia_facturacion_label:hover {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_diferencia_facturacion_grid_line, .css_diferencia_facturacion_grid_line:hover {background-color:#FFCCCC;font-weight:bold;vertical-align: top;text-align: right;}
+.css_diferencia_facturacion_tot_ger, .css_diferencia_facturacion_tot_ger:hover {text-align: ;text-align: right;background-color:#CCFFCC;font-weight:bold;}
+.css_ur_real_label, .css_ur_real_label:hover {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_ur_real_grid_line, .css_ur_real_grid_line:hover {background-color:#FFFFCC;font-weight:bold;vertical-align: top;text-align: right;}
+.css_backlog_p_label, .css_backlog_p_label:hover {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_backlog_p_grid_line, .css_backlog_p_grid_line:hover {vertical-align: top;text-align: right;}
+.css_backlog_f_label, .css_backlog_f_label:hover {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_backlog_f_grid_line, .css_backlog_f_grid_line:hover {vertical-align: top;text-align: right;}
+.css_dias_mes_desde_label, .css_dias_mes_desde_label:hover {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_dias_mes_desde_grid_line, .css_dias_mes_desde_grid_line:hover {vertical-align: top;text-align: right;}
+.css_dias_mes_hasta_label, .css_dias_mes_hasta_label:hover {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_dias_mes_hasta_grid_line, .css_dias_mes_hasta_grid_line:hover {vertical-align: top;text-align: right;}
+.css_ur_periodo_label, .css_ur_periodo_label:hover {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_ur_periodo_grid_line, .css_ur_periodo_grid_line:hover {background-color:#FFFFCC;vertical-align: top;text-align: right;}
+.css_ur_mes_label, .css_ur_mes_label:hover {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_ur_mes_grid_line, .css_ur_mes_grid_line:hover {vertical-align: top;text-align: right;}
+.css_iva_label, .css_iva_label:hover {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_iva_grid_line, .css_iva_grid_line:hover {text-align: right;}
+.css_mod_contrato_iva_label, .css_mod_contrato_iva_label:hover {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_mod_contrato_iva_grid_line, .css_mod_contrato_iva_grid_line:hover {text-align: right;}
+.css_detalle_partida_grid_line, .css_detalle_partida_grid_line:hover {text-align: left;}
+.css_modificacion_contrato_S_tot_ger, .css_modificacion_contrato_S_tot_ger:hover {text-align: right;background-color:#CCFFCC;font-weight:bold;}
+.css_facturacion_S_tot_ger, .css_facturacion_S_tot_ger:hover {text-align: right;background-color:#CCFFCC;font-weight:bold;}
+.css_reajuste_S_tot_ger, .css_reajuste_S_tot_ger:hover {text-align: right;background-color:#CCFFCC;font-weight:bold;}
+.css_retencion_S_tot_ger, .css_retencion_S_tot_ger:hover {text-align: right;background-color:#CCFFCC;font-weight:bold;}
+.css_multa_S_tot_ger, .css_multa_S_tot_ger:hover {text-align: right;background-color:#CCFFCC;font-weight:bold;}
+.css_produccion_periodo_S_tot_ger, .css_produccion_periodo_S_tot_ger:hover {text-align: right;background-color:#CCFFCC;font-weight:bold;}
+.css_avance_S_tot_ger, .css_avance_S_tot_ger:hover {text-align: right;background-color:#CCFFCC;font-weight:bold;}
+.css_diferencia_facturacion_S_tot_ger, .css_diferencia_facturacion_S_tot_ger:hover {text-align: right;background-color:#CCFFCC;font-weight:bold;}
